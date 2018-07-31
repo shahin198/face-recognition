@@ -23,4 +23,4 @@ sudo pip3 install dlib
 
 ```
 # opencv
-https://jkjung-avt.github.io/opencv3-on-tx2/
+https://www.jetsonhacks.com/2018/05/28/build-opencv-3-4-with-cuda-on-nvidia-jetson-tx2/
