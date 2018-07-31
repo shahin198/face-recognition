@@ -22,3 +22,5 @@ python3 -m pip install jupyter
 sudo pip3 install dlib
 
 ```
+# opencv
+https://jkjung-avt.github.io/opencv3-on-tx2/
