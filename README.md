@@ -24,3 +24,7 @@ sudo pip3 install dlib
 ```
 # opencv
 https://www.jetsonhacks.com/2018/05/28/build-opencv-3-4-with-cuda-on-nvidia-jetson-tx2/
+
+```
+print(cv2.getBuildInformation())
+```
