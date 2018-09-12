@@ -28,3 +28,14 @@ https://www.jetsonhacks.com/2018/05/28/build-opencv-3-4-with-cuda-on-nvidia-jets
 ```
 print(cv2.getBuildInformation())
 ```
+# Sqlite Browser
+```
+Update the cache using:
+
+   sudo apt-get update
+
+Install the package using:
+
+   sudo apt-get install sqlitebrowser
+   
+```
