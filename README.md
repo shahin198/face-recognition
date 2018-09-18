@@ -1,3 +1,7 @@
+# If use Gpu first install cuda properly
+
+https://github.com/shahin198/cuda-programming/blob/master/README.md
+
 # face-recognition
 ```
 sudo apt-get update
