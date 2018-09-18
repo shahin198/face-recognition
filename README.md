@@ -26,6 +26,14 @@ python3 -m pip install jupyter
 sudo pip3 install dlib
 
 ```
+# check dlib is cuda support
+```
+>>> import dlib
+>>> print(dlib.DLIB_USE_CUDA)
+True
+>>> exit()
+
+```
 # opencv
 https://www.jetsonhacks.com/2018/05/28/build-opencv-3-4-with-cuda-on-nvidia-jetson-tx2/
 
