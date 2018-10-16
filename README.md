@@ -9,6 +9,7 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrade
 
 sudo apt-get install python3
+sudo apt-get -y install python3-pip
 sudo apt-get install cmake
 pip3 install face_recognition
 python3 -m pip install jupyter
