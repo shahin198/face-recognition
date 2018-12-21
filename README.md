@@ -26,6 +26,7 @@ python3 -m pip install Pillow
 python3 -m pip install jupyter
 sudo pip3 install dlib
 sudo apt-get install python3-tk
+pip3 install tflearn
 ```
 # check dlib is cuda support
 ```
