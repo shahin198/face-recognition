@@ -2,6 +2,7 @@
 
 https://github.com/shahin198/cuda-programming/blob/master/README.md
 
+![alt text](https://github.com/shahin198/face-recognition/blob/master/Screenshot%20from%202018-08-01%2009-50-50.png)
 # face-recognition
 ```
 sudo apt-get update
