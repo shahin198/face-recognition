@@ -27,7 +27,11 @@ python3 -m pip install Pillow
 python3 -m pip install jupyter
 sudo pip3 install dlib
 sudo apt-get install python3-tk
+
+pip3 install tensorflow-gpu
 pip3 install tflearn
+pip3 install tqdm
+pip3 install --user matplotlib
 
 sudo apt-get install python3-flask
 ```
