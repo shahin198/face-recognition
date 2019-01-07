@@ -32,6 +32,7 @@ pip3 install tensorflow-gpu
 pip3 install tflearn
 pip3 install tqdm
 pip3 install --user matplotlib
+sudo apt-get install python3-numpy python3-scipy
 
 sudo apt-get install python3-flask
 ```
