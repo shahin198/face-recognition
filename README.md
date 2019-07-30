@@ -1,9 +1,16 @@
 # If use Gpu first install cuda properly
 
+# Face recognition using face net and Suport Vector Machine (SVM)
+
+https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+
+```
+pip3 install mtcnn
+```
 https://github.com/shahin198/cuda-programming/blob/master/README.md
 
 ![alt text](https://github.com/shahin198/face-recognition/blob/master/Screenshot%20from%202018-08-01%2009-50-50.png)
-# face-recognition
+# face-recognition using dlib
 ```
 sudo apt-get update
 sudo apt-get upgrade
