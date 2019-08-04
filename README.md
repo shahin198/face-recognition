@@ -68,3 +68,4 @@ Install the package using:
    sudo apt-get install sqlitebrowser
    
 ```
+MegaFace and Lost Faces in the Wild .. it's need study
