@@ -69,3 +69,5 @@ Install the package using:
    
 ```
 MegaFace and Lost Faces in the Wild .. it's need study
+
+https://github.com/deepinsight/insightface
