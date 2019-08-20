@@ -71,3 +71,6 @@ Install the package using:
 MegaFace and Lost Faces in the Wild .. it's need study
 
 https://github.com/deepinsight/insightface
+
+https://paperswithcode.com/paper/arcface-additive-angular-margin-loss-for-deep
+
