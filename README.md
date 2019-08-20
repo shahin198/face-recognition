@@ -74,3 +74,5 @@ https://github.com/deepinsight/insightface
 
 https://paperswithcode.com/paper/arcface-additive-angular-margin-loss-for-deep
 
+https://medium.com/1-minute-papers/arcface-additive-angular-margin-loss-for-deep-face-recognition-d02297605f8d
+
